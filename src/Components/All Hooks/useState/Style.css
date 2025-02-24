@@ -1,0 +1,26 @@
+.name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+button {
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 7px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 9px;
+    border: none;
+    margin: 8px;
+}
+.count{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}

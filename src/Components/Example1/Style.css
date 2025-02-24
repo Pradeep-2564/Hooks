@@ -1,0 +1,61 @@
+table{
+    border-collapse: collapse;
+    width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: rgb(206, 182, 182); */
+}
+th, td{
+    border: 1px solid black;
+    padding: 15px;
+}
+th{
+    background-color: #807979;
+
+}
+#childCaption{
+    margin-bottom: 15px;
+    margin-top: 5px;
+    font-size: 1.6rem;
+    text-decoration: underline;
+}
+#grandChildCaption{
+    margin-bottom: 15px;
+    margin-top: 28px;
+    font-size: 1.5rem;
+    text-decoration: underline;
+
+}
+
+img{
+    height: 200px;
+    width: 150px;
+    margin-left: 15vw;
+    cursor: pointer;
+}
+b{
+    font-size: 1.1rem;
+    color: black;
+}
+body{
+    background-color: rgb(132, 181, 179);
+}
+#year {
+    background-color: rgb(223, 139, 139);
+}
+#name {
+    background-color: rgb(118, 163, 118) ;
+}
+span{
+    font-size: 1.3em;
+    text-align: center;
+}
+#grand-movie{
+    background-color: rgb(165, 119, 162);
+    width: 50px;
+}
+#sl-no{
+    font-size: 1.2rem;
+    text-align: center;
+    background-color: #9e8787;
+}

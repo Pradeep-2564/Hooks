@@ -1,0 +1,39 @@
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td{
+    border: 1px solid white;
+    padding: 10px;
+}
+th{
+    background-color: #6f6c6c;
+
+}
+#childCaption{
+    margin-bottom: 15px;
+    margin-top: 5px;
+    font-size: 1.3rem;
+    text-decoration: underline;
+}
+#grandChildCaption{
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 1.3rem;
+    text-decoration: underline;
+
+}
+#empty {
+    text-align: center;
+}
+img{
+    height: 20px;
+    width: 20px;
+    margin-left: 35px;
+}
+body{
+    background-color: black;
+    color: white;
+}
